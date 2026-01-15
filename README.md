@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-https://github.com/Kiran29291/Ecommerce.git
+https://github.com/amina-sk-088/Ecommerce-MERN.git
 ```
 
 **Installation**
